@@ -1,0 +1,15 @@
+﻿Backend process
+
+Pattern : Repository Pattern
+IUserService: Interface created
+Userservice: Implement interfact interact with Mock Database for CRUD
+Dependency Injection; Add scoped and register in the service lifetime
+cors policy added.
+
+
+
+Frontend:
+
+Angular 17 version 
+Added Angular material for Table grid
+pagination,searching and crud opertion has been implemented

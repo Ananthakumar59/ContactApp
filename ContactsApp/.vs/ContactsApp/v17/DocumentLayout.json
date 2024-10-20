@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkFlow\\ContactsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\doc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\doc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\data\\mockdatabase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\data\\mockdatabase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\contactsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\contactsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\commonutility\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\commonutility\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\irepository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\irepository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|c:\\workflow\\contactsapp\\contactsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DBC65C-18BE-49E6-B1C8-730233C57341}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkFlow\\ContactsApp\\ContactsApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactsApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:916273320:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:907418858:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doc.txt",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Doc.txt",
+              "RelativeDocumentMoniker": "ContactsApp\\Doc.txt",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Doc.txt",
+              "RelativeToolTip": "ContactsApp\\Doc.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-20T03:53:06.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Data\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Data\\Program.cs",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Data\\Program.cs",
+              "RelativeToolTip": "ContactsApp\\Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T00:44:28.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactsApp.csproj",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\ContactsApp.csproj",
+              "RelativeDocumentMoniker": "ContactsApp\\ContactsApp.csproj",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\ContactsApp.csproj",
+              "RelativeToolTip": "ContactsApp\\ContactsApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T00:43:34.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Program.cs",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Program.cs",
+              "RelativeToolTip": "ContactsApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:12:47.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Repository\\UserService.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Repository\\UserService.cs",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Repository\\UserService.cs",
+              "RelativeToolTip": "ContactsApp\\Repository\\UserService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIAwwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:51:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Models\\User.cs",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Models\\User.cs",
+              "RelativeToolTip": "ContactsApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:42:57.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\commonUtility\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\commonUtility\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\commonUtility\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ContactsApp\\commonUtility\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:18:43.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ContactsApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:15:29.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mockDatabase.json",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Data\\mockDatabase.json",
+              "RelativeDocumentMoniker": "ContactsApp\\Data\\mockDatabase.json",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\Data\\mockDatabase.json",
+              "RelativeToolTip": "ContactsApp\\Data\\mockDatabase.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T00:47:53.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\IRepository\\IUserService.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\IRepository\\IUserService.cs",
+              "ToolTip": "C:\\WorkFlow\\ContactsApp\\ContactsApp\\IRepository\\IUserService.cs",
+              "RelativeToolTip": "ContactsApp\\IRepository\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:07:38.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

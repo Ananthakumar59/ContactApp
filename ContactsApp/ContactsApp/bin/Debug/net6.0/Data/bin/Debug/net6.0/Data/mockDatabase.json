@@ -1,0 +1,16 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "FirstName": "Anantha",
+      "LastName": "Kumar",
+      "Email": "ananthkumar@gmail.com"
+    },
+    {
+      "Id": 2,
+      "FirstName": "Sai",
+      "LastName": "Sakthi",
+      "Email": "Saisakthi@gmail.com"
+    }
+  ]
+}
